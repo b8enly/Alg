@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T11:14:51.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="b-7ujVtbkIjsed30SVow" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T11:16:54.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="C3vjiVQ_QY_Jhtq_Btp9" version="13.11.0" type="github">
   <diagram id="g0qfOq7lbFyKaEz3WeZk" name="Page-1">
     <mxGraphModel dx="1117" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,6 +124,21 @@
         </mxCell>
         <mxCell id="wP6uEVzdnc5bnT8hMnPE-36" value="НЕТ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="401" y="263" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wP6uEVzdnc5bnT8hMnPE-37" value="ДА" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="324" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wP6uEVzdnc5bnT8hMnPE-38" value="НЕТ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="462" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wP6uEVzdnc5bnT8hMnPE-39" value="ДА" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="526" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wP6uEVzdnc5bnT8hMnPE-40" value="НЕТ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="401" y="584" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wP6uEVzdnc5bnT8hMnPE-41" value="ДА" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="313" y="646" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
